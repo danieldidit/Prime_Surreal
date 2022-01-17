@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prime Surreal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prime_Surreal_jar</output-path>
+    <root id="archive" name="Prime Surreal.jar">
+      <element id="module-output" name="Prime Surreal" />
+    </root>
+  </artifact>
+</component>
