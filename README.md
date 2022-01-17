@@ -15,4 +15,4 @@
         ********  ********  **    **  **    **  ********  **    **  ********
         
         
-My first Java text-based Role Playing Game that I did for my final assignment.
+My first Java text-based Role Playing Game that I did for my final assignment for my Java Fundamentals class.
